@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.57a0fe16.chunk.js": "/static/js/0.57a0fe16.chunk.js",
+    "static/js/1.de89eba2.chunk.js": "/static/js/1.de89eba2.chunk.js",
+    "static/js/2.3d7e0567.chunk.js": "/static/js/2.3d7e0567.chunk.js",
+    "main.css": "/static/css/main.4c3c6279.chunk.css",
+    "main.js": "/static/js/main.a3f209dc.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.cd126779.js",
+    "static/js/5.4e8e0fb3.chunk.js": "/static/js/5.4e8e0fb3.chunk.js",
+    "static/js/6.808afa1f.chunk.js": "/static/js/6.808afa1f.chunk.js",
+    "static/js/7.40ac21b0.chunk.js": "/static/js/7.40ac21b0.chunk.js",
+    "static/js/8.eaebd975.chunk.js": "/static/js/8.eaebd975.chunk.js",
+    "static/js/9.2fca19c5.chunk.js": "/static/js/9.2fca19c5.chunk.js",
+    "static/js/10.0bd00925.chunk.js": "/static/js/10.0bd00925.chunk.js",
+    "static/js/11.6f6557be.chunk.js": "/static/js/11.6f6557be.chunk.js",
+    "static/js/12.f0136b8f.chunk.js": "/static/js/12.f0136b8f.chunk.js",
+    "static/js/13.77504407.chunk.js": "/static/js/13.77504407.chunk.js",
+    "static/js/14.cbfb8712.chunk.js": "/static/js/14.cbfb8712.chunk.js",
+    "static/js/15.e2f8dbe2.chunk.js": "/static/js/15.e2f8dbe2.chunk.js",
+    "static/js/16.29609f88.chunk.js": "/static/js/16.29609f88.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.fc808d2981aeaf8b6f8b236c5c0dba26.js": "/precache-manifest.fc808d2981aeaf8b6f8b236c5c0dba26.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/1.de89eba2.chunk.js.LICENSE.txt": "/static/js/1.de89eba2.chunk.js.LICENSE.txt",
+    "static/js/10.0bd00925.chunk.js.LICENSE.txt": "/static/js/10.0bd00925.chunk.js.LICENSE.txt",
+    "static/js/2.3d7e0567.chunk.js.LICENSE.txt": "/static/js/2.3d7e0567.chunk.js.LICENSE.txt",
+    "static/js/5.4e8e0fb3.chunk.js.LICENSE.txt": "/static/js/5.4e8e0fb3.chunk.js.LICENSE.txt",
+    "static/js/7.40ac21b0.chunk.js.LICENSE.txt": "/static/js/7.40ac21b0.chunk.js.LICENSE.txt",
+    "static/js/8.eaebd975.chunk.js.LICENSE.txt": "/static/js/8.eaebd975.chunk.js.LICENSE.txt",
+    "static/media/farmer.png": "/static/media/farmer.4e221e6f.png",
+    "static/media/metamask-fox.svg": "/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/wallet-connect.svg": "/static/media/wallet-connect.37f2bc6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd126779.js",
+    "static/js/5.4e8e0fb3.chunk.js",
+    "static/css/main.4c3c6279.chunk.css",
+    "static/js/main.a3f209dc.chunk.js"
+  ]
+}
